@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Apple
+comment0.text=\r\n\ This\ class\ sets\ the\ image\ for\ apple\ objects.\r\n\ \r\n\ Authors\:\ Jerick\ Castro\ Ortiz\ (@J3r1ckSB),\ Sim\u00F3n\ Andr\u00E9s\ \u00C1lvarez\ Gonz\u00E1lez\ (@Simonalgo),\ Santiago\ Barrera\ Salamanca\ (@Sanbarrera9090)\ \r\n\ Version\:\ 1.1.0\ -\ 02/04/2021\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Apple\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=2

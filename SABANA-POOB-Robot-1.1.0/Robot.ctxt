@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Robot
+comment0.text=\r\n\ This\ class\ sets\ the\ image\ for\ robot\ objects\ and\ is\ compounded\ with\ several\ methods\ which\ are\ described\ below.\r\n\ \r\n\ Authors\:\ Jerick\ Castro\ Ortiz\ (@J3r1ckSB),\ Sim\u00F3n\ Andr\u00E9s\ \u00C1lvarez\ Gonz\u00E1lez\ (@Simonalgo),\ Santiago\ Barrera\ Salamanca\ (@Sanbarrera9090)\ \r\n\ Version\:\ 1.1.0\ -\ 02/04/2021\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Robot\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ robotMovement()
+comment2.text=\r\n\ robotMovement\ -\ allows\ the\ robot\ to\ move.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ method\ is\ called.\r\n
+comment3.params=
+comment3.target=void\ eatApple()
+comment3.text=\r\n\ eatApple\ -\ allows\ the\ robot\ to\ eat\ the\ apple\ objects.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ method\ is\ called.\r\n
+comment4.params=
+comment4.target=void\ detectWallCollision()
+comment4.text=\r\n\ detectWallCollision\ -\ makes\ the\ robot\ go\ back\ to\ the\ starting\ location\ if\ it\ touches\ a\ wall\ object.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ method\ is\ called.\r\n
+comment5.params=
+comment5.target=void\ detectBlockCollision()
+comment5.text=\r\n\ detectBlockCollision\ -\ makes\ the\ robot\ go\ back\ to\ the\ starting\ location\ if\ it\ touches\ a\ block\ object.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ method\ is\ called.\r\n
+comment6.params=
+comment6.target=void\ detectHome()
+comment6.text=\r\n\ detectHome\ -\ makes\ the\ robot\ go\ back\ to\ the\ starting\ location\ if\ it\ touches\ a\ home\ object.\ This\ is\ considered\ a\ win.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ method\ is\ called.\r\n
+numComments=7
